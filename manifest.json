@@ -1,0 +1,17 @@
+{
+
+    "manifest_version":3,
+    "version": "1.1",
+    "name" : "Sreejita Banerjee",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon" : "SB.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+
+
+
+
+}
